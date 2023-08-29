@@ -8,7 +8,7 @@ keywords:
   - exporter
 type: application
 version: 0.1.1
-appVersion: 0.22.0
+appVersion: 0.23.1
 home: https://github.com/prometheus-community/windows_exporter/
 sources:
   - https://github.com/prometheus-community/windows_exporter/
